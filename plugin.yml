@@ -1,0 +1,11 @@
+name: Dragons
+main: sp\Main
+api: 3.0.0
+version: 1.0.1
+author: CallumRawlinson
+website: https://github.com/callumrawlinson/dragons
+commands:
+  dragons:
+    description: Join a Dragon Game
+    permission: dragon.cmd.use
+    default: op
